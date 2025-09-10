@@ -347,7 +347,7 @@ This assignment incorporates established ML concepts from:
 **Kittithat Chalermvisutkul**
 - **Academic Background**: MSc Computer Science (Artificial Intelligence)
 - **GitHub**: [@Zyttik-m](https://github.com/Zyttik-m)
-- **LinkedIn**: [linkedin.com/in/timmy-l-chan](https://linkedin.com/in/Kittithat-CH)
+- **LinkedIn**: [linkedin.com/in/Kittithat-CH](https://linkedin.com/in/Kittithat-CH)
 
 
 
