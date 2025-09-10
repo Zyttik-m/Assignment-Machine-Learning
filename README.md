@@ -15,14 +15,14 @@ This assignment represents a comprehensive exploration of machine learning metho
 
 ## 📚 Assignment Structure
 
-### Part 1: Probabilistic Modeling & Statistical Analysis (50 Marks)
+### Part 1: Probabilistic Modeling & Statistical Analysis 
 **Focus**: Classical machine learning and statistical modeling
 - Probabilistic tracking and prediction systems
 - Gaussian noise modeling and likelihood estimation
 - Mathematical modeling for spatial-temporal data
 - Vector-based directional analysis
 
-### Part 2: Neural Networks, Dimensionality Reduction & Clustering (50 Marks)
+### Part 2: Neural Networks, Dimensionality Reduction & Clustering 
 **Focus**: Modern deep learning and neural network architectures
 - Convolutional Neural Networks (CNNs)
 - Fully Connected Neural Networks (FCNNs)
