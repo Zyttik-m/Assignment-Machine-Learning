@@ -291,14 +291,6 @@ Assignment-Machine-Learning/
 - **Autoencoder Innovation** - Denoising capabilities for robust feature learning
 - **Model Persistence** - Professional model management and deployment
 
-## 🎓 Academic Context
-
-### Course Information
-- **Course**: Advanced Machine Learning (ACP24KC)
-- **Institution**: University-level assignment
-- **Assessment**: Two-part assignment (100 marks total)
-- **Skills Assessed**: Mathematical modeling, programming proficiency, analytical thinking
-
 ### Learning Objectives Met
 - ✅ **Statistical Modeling** - Probabilistic analysis and likelihood estimation
 - ✅ **Deep Learning** - Neural network design and implementation
